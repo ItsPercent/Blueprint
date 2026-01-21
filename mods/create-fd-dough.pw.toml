@@ -1,0 +1,13 @@
+name = "Create & FD Dough"
+filename = "createfddough-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/UH3ZCkYf/versions/z8g4icbq/createfddough-1.0.0.jar"
+hash-format = "sha512"
+hash = "34feee6379fe6bf8ce3e9b424c5a4d6076270e5e10f58639746942eb4037a3cf43c7cede2d8272159ba028ad92d6be84991255e13a29fce7252202957dc24212"
+
+[update]
+[update.modrinth]
+mod-id = "UH3ZCkYf"
+version = "z8g4icbq"
