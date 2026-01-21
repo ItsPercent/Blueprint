@@ -5,8 +5,7 @@
 
 ## GitHub Specifc Information
 Hello fellow nerds! You've happened upon the github project! You may have noticed the 1.20.1 version in the file explorer, 
-This won't be posted to modrinth for now, as it is still in development. However, it's main goal is to serve as a base for
-please note that this likely won't get posted to modrinth. It's main purpose is to serve as a base for
+This won't be posted to modrinth for now, as it is still in development. It's main purpose is to serve as a base for
 your [Valkyrien Skies](https://modrinth.com/mod/valkyrien-skies) projects while still being the Blueprint you know and love.
 If you have any suggestions, please feel free to open and issue and voice your opinion!
 
