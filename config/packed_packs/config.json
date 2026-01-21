@@ -6,7 +6,7 @@
   "resourcepacks": {
     "applyOnClose": true,
     "replaceOriginal": true,
-    "hideIncompatibleWarnings": false,
+    "hideIncompatibleWarnings": true,
     "additionalFolders": [],
     "rememberLastViewedProfile": false,
     "profileOrder": []

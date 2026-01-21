@@ -13,8 +13,12 @@ file = ".idea/modules.xml"
 hash = "d7eeecbc11fae051fb6846b18e90069f248b363d9394f29eccbe3319f8a3860f"
 
 [[files]]
+file = ".idea/vcs.xml"
+hash = "55768f1f84fb117f1d0fc383e180b5d0aa5e5e6584c8c4a2995c15b4237f0972"
+
+[[files]]
 file = ".idea/workspace.xml"
-hash = "4a8484356542333ccef92e24e2026b0951d195375797062338c7ed4226805490"
+hash = "a720cc8470d483c847b5c8d4e2ae966eeb2bd73b4fb864b9f21f5b7224478433"
 
 [[files]]
 file = "config/axiom/.axiom.json.backup"
@@ -94,7 +98,7 @@ hash = "bfbd3dfb4a26a4604baf1ef97957b68ef77f5861c297b742efead6a54c3e1aa5"
 
 [[files]]
 file = "config/packed_packs/config.json"
-hash = "55ec6f1c8a1a905bab4ceb8a92b6ed4080b01d71fadde5c9f03185940596f35d"
+hash = "914dfe06c5d0f0d46bba09116d5e5517813057d198b827ecc2a5c19359862534"
 
 [[files]]
 file = "config/packed_packs/config.meta.json"
@@ -166,7 +170,7 @@ hash = "e00a67922942660d77c213379b5128a46c5abc894178b0be04006d325ff5f6b3"
 
 [[files]]
 file = "kubejs/config/defaultoptions.txt"
-hash = "a0481423f5bc96e65adaa3e2b6e8df3ba4c07013bea6b244e8587a138aa48216"
+hash = "124b468c7573c2f362a44b478dec273d15846567adc32117537eb568bef5ecae"
 
 [[files]]
 file = "kubejs/config/pack-icon.png"
