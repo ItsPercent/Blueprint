@@ -1,26 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".idea/Blueprint.iml"
-hash = "0ff94b49c61885dd797e3da61dc3444c7ab48f317373ca42681910f1f8413752"
-
-[[files]]
-file = ".idea/misc.xml"
-hash = "c90f4540ff948ffce28efb02ab2d429833d320c2cde8e8eb4f3e8b424a9cf7bb"
-
-[[files]]
-file = ".idea/modules.xml"
-hash = "d7eeecbc11fae051fb6846b18e90069f248b363d9394f29eccbe3319f8a3860f"
-
-[[files]]
-file = ".idea/vcs.xml"
-hash = "55768f1f84fb117f1d0fc383e180b5d0aa5e5e6584c8c4a2995c15b4237f0972"
-
-[[files]]
-file = ".idea/workspace.xml"
-hash = "a720cc8470d483c847b5c8d4e2ae966eeb2bd73b4fb864b9f21f5b7224478433"
-
-[[files]]
 file = "config/axiom/.axiom.json.backup"
 hash = "eb676253cd67509274c7815c9ded1532153af712275721295fdf85b3036c8853"
 
