@@ -85,10 +85,6 @@ file = "kubejs/config/web_server.json"
 hash = "ec2db3ce65eb59f1f813a3dd5d048fd7ef08b3de1f45c80c958189a2a72f4ced"
 
 [[files]]
-file = "kubejs/server_scripts/recipes.js"
-hash = "69172ec641962b6664752dfbe0404deaf16fb5ff4a896820504f1a65c39b5698"
-
-[[files]]
 file = "mods/amendments.pw.toml"
 hash = "8b9bd5d12a7068c334ab4ad626a9a86e70302cda90885daa531bfa842e8b29c5"
 metafile = true
@@ -250,7 +246,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "835bd8b05a05ce6c0981ddc37c49e4c476aa0414cc2a5321fd9f8994193b6feb"
+hash = "5ccedc16130668600dec39a19609afd33ea1f2a0e92f737b4369c117b7276160"
 metafile = true
 
 [[files]]
