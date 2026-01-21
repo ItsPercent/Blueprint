@@ -1,0 +1,13 @@
+name = "Create: Interactive"
+filename = "create_interactive-1.2.1_1.20.1-forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/MyfCcqiE/versions/EScBvcOc/create_interactive-1.2.1_1.20.1-forge.jar"
+hash-format = "sha512"
+hash = "e2ed4d0096842caacbe1bac9c66feab08ed9b251bb507695a134bad1b2cc0404c0d1c5890d438df80124c64780a84025eebcafd98d0007fcff287b4dac3c6ceb"
+
+[update]
+[update.modrinth]
+mod-id = "MyfCcqiE"
+version = "EScBvcOc"

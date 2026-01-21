@@ -1,0 +1,13 @@
+name = "Blueprint"
+author = "ItsPercent"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "0a1c75238b83d98ced075260134e192e3f066306566053e938da89f8fd984d0a"
+
+[versions]
+forge = "47.4.16"
+minecraft = "1.20.1"

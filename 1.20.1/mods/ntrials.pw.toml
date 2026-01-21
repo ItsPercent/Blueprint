@@ -1,0 +1,13 @@
+name = "New Trials"
+filename = "ntrials-1.8.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/CPolhvYL/versions/BhAJOd96/ntrials-1.8.0.jar"
+hash-format = "sha512"
+hash = "fe60f63a9ad860fa5091e6a28d1ffbdfae07ce85c9fa5f757bab41e2eaac6cdbd9f350f3f0a81f100cd76b9508a4eed75a77441acfe49b8520a9cc44cb116d5d"
+
+[update]
+[update.modrinth]
+mod-id = "CPolhvYL"
+version = "BhAJOd96"
