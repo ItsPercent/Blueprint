@@ -140,6 +140,11 @@ hash = "853df4ab2418f347cbb1e3b4ca6c82b2a517a8e4e8ccabcd42c27e3496707a32"
 metafile = true
 
 [[files]]
+file = "mods/create-big-cannons.pw.toml"
+hash = "9eb4f3e7a5a83c588e0caa676d91597c18f2c8004c9e57a10e72859e474fa0e5"
+metafile = true
+
+[[files]]
 file = "mods/create-clockwork.pw.toml"
 hash = "5021b4a0f5474201447787ebe98a5d6cf3d18b10e06fe64f726608e4739e8a9f"
 metafile = true
@@ -155,8 +160,18 @@ hash = "6989fbef26866dff47b04fe1253b54c53ba5bcfe30f35192cf4ee96e125f572b"
 metafile = true
 
 [[files]]
+file = "mods/create-radars.pw.toml"
+hash = "d329779921574e5a4709ee468955af18c84546a2be55d13a0e49ca0fc88b0a6f"
+metafile = true
+
+[[files]]
 file = "mods/create-steam-n-rails.pw.toml"
 hash = "b13bad02617c5c0b39dede935d46bbf9755e66581087254372a12364b75df2b9"
+metafile = true
+
+[[files]]
+file = "mods/create-tweaked-controllers.pw.toml"
+hash = "aba70a0cd8e2169d87508bcf587b8f59cebd0ea466b2fd873a0ca21f9a02ade3"
 metafile = true
 
 [[files]]
@@ -342,6 +357,11 @@ metafile = true
 [[files]]
 file = "mods/rhino.pw.toml"
 hash = "5b92406160d9ea8a61ddf111caaecb7f6283678e2c40b08b72dce3eeaf20dc96"
+metafile = true
+
+[[files]]
+file = "mods/rpl.pw.toml"
+hash = "93128d85ae0b3be9c8248b09f3a63ed88c746568480cc7e9a8e2a9b4bd13477c"
 metafile = true
 
 [[files]]
