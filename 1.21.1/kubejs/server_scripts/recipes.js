@@ -99,24 +99,24 @@ ServerEvents.recipes((event) => {
     event.recipes.createCrushing(
         [
             'create:powdered_obsidian',
-            withChance('create:powdered_obsidian', 0.5),
-            withChance('minecraft:amethyst_shard', 0.37)
+            CreateItem.of('create:powdered_obsidian', 0.5),
+            CreateItem.of('minecraft:amethyst_shard', 0.37)
         ],
         'minecraft:crying_obsidian'
     )
 
     event.recipes.createCrushing(
         [
-            withChance('minecraft:quartz', 0.12),
-            withChance('minecraft:lapis_lazuli', 0.08)
+            CreateItem.of('minecraft:quartz', 0.12),
+            CreateItem.of('minecraft:lapis_lazuli', 0.08)
         ],
         'create:limestone'
     )
 
     event.recipes.createCrushing(
         [
-            withChance('minecraft:end_stone', 0.75),
-            withChance('minecraft:ender_pearl', 0.08)
+            CreateItem.of('minecraft:end_stone', 0.75),
+            CreateItem.of('minecraft:ender_pearl', 0.08)
         ],
         'minecraft:end_stone'
     )
