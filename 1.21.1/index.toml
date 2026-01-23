@@ -73,6 +73,10 @@ file = "config/create_power_loader-server.toml"
 hash = "bc2bbe083ef1f649069e63e7efbd08425abc7306732986ff798215182df78533"
 
 [[files]]
+file = "config/darkmodeeverywhere-client.toml"
+hash = "94de6117d5bb709842ee27894de8373ada9461d63b3769f642a865570f2d23f1"
+
+[[files]]
 file = "config/emi.css"
 hash = "0f0f03c7287216949f61e1fc7b4a16741ab074f8189d0bf7bb8be8be308b92b4"
 
