@@ -345,6 +345,11 @@ hash = "ee76dbe108ebf5cf68047f60ecabee5aeb029015253dc82c007b941a6d6cfcdf"
 metafile = true
 
 [[files]]
+file = "mods/create-return-ticket.pw.toml"
+hash = "078aaa4edaa79e4ea7106b510a4b9a56b07200300bdbc4c84086891474159a5b"
+metafile = true
+
+[[files]]
 file = "mods/create-steam-n-rails-1.21.1.pw.toml"
 hash = "fa7e815272f183ccdeac6baff3690f6291c4117646af8912123b705fde64dbef"
 metafile = true
