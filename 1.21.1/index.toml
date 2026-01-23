@@ -22,7 +22,7 @@ hash = "269064f5ba7307dcd31a03b5c690698b3442c0f0024c1358361542f49f5509ae"
 
 [[files]]
 file = ".idea/workspace.xml"
-hash = "bfce638ae55cf41eba040fba701f1c8355a855eefd15a9f9b92de04b51d0f308"
+hash = "4bd19eb5d4512eba021706470568e1a7a736e139cc6593f51d093f42ab0605cc"
 
 [[files]]
 file = "config/axiom/.axiom.json.backup"
@@ -51,6 +51,10 @@ hash = "dfa92a0dc998daeaa23f2d2423bc0eff651bc22ca6133871dcf85462fec23afe"
 [[files]]
 file = "config/create-client.toml"
 hash = "df7ce62647f75fb1fc75a0edff62469baf60fed420005862e1026816166b6da4"
+
+[[files]]
+file = "config/create_connected-common.toml"
+hash = "4a75ca57fe748991d546af736c88409772593986cbf449ff2adb2493c846761f"
 
 [[files]]
 file = "config/create_cyber_goggles.toml"
