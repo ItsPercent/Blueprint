@@ -1,6 +1,0 @@
-darkMojangStudiosBackground:true
-directionalAudio:true
-skipMultiplayerWarning:true
-soundCategory_music:0.1
-resourcePacks:["vanilla","fabric","mod_resources","moonlight:merged_pack","Blueprint Overrides","Unnamed_Create_Computers_Resource_Pack.zip","file/create-stomified.zip"]
-incompatibleResourcePacks:["Unnamed_Create_Computers_Resource_Pack.zip"]
