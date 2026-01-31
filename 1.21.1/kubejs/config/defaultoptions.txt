@@ -1,7 +1,0 @@
-darkMojangStudiosBackground:true
-directionalAudio:true
-skipMultiplayerWarning:true
-key_axiom.keybind.context:key.keyboard.tab
-soundCategory_music:0.1
-resourcePacks:["vanilla","fabric","mod_resources","moonlight:merged_pack","Blueprint Overrides","Unnamed_Create_Computers_Resource_Pack.zip","file/create-stomified.zip","continuity:default","continuity:glass_pane_culling_fix","file/FreshAnimations_v1.10.3.zip","file/FA+Player-v1.0.zip","file/FA+Objects-v2.1.zip","file/§eBray\u0027s FA ChestFix v2.0.zip","file/FreshCompats_v1.6.zip"]
-incompatibleResourcePacks:["Unnamed_Create_Computers_Resource_Pack.zip"]
