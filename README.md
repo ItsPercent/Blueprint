@@ -3,12 +3,6 @@
 [![Watch me on Youtube](https://github.com/intergrav/devins-badges/blob/v3/assets/compact/social/youtube-singular_46h.png?raw=true)](https://www.youtube.com/channel/UC5F8ulfmzf264c9XONHQFEw)
 [![Built with Neoforge](https://cdn.modrinth.com/data/cached_images/d50ee493e8a61661098f42e8f94b4af682220efa.png)](https://neoforged.net)
 
-## GitHub Specifc Information
-Hello fellow nerds! You've happened upon the github project! You may have noticed the 1.20.1 version in the file explorer, 
-This won't be posted to modrinth for now, as it is still in development. It's main purpose is to serve as a base for
-your [Valkyrien Skies](https://modrinth.com/mod/valkyrien-skies) projects while still being the Blueprint you know and love.
-If you have any suggestions, please feel free to open and issue and voice your opinion!
-
 ## Overview
 
 I, like many other people, kept getting recommended modpacks claiming to provide "The Ultimate Create Experience" like it was the next big thing when in reality, it was just a collection of every mod on the respective mod hosting site with "Create" in the name.
@@ -112,6 +106,9 @@ That list was kinda short, so if your looking for a complete list of everything 
 - [Mouse Tweaks](https://modrinth.com/mod/aC3cM3Vq) by Ivan Molodetskikh \(YaLTeR\)
 - [My Nether's Delight](https://modrinth.com/mod/O53VhQoZ) by SoyTutta
 - [Necronomicon](https://modrinth.com/mod/P1Kv5EAO) by ElocinDev
+- [No Chat Reports](https://modrinth.com/mod/qQyHxfxd) by Aizistral
+- [No Chat Restrictions](https://modrinth.com/mod/z440MEwJ) by Aizistral
+- [No Telemetry](https://modrinth.com/mod/hg77g4Pw) by kb1000
 - [NotEnoughAnimations](https://modrinth.com/mod/MPCX6s5C) by tr7zw
 - [Packed Packs](https://modrinth.com/mod/8Pq6Exn2) by fishstiz
 - [Paxi](https://modrinth.com/mod/CU0PAyzb) by YUNGNICKYOUNG
