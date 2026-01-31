@@ -18,7 +18,7 @@ hash = "55768f1f84fb117f1d0fc383e180b5d0aa5e5e6584c8c4a2995c15b4237f0972"
 
 [[files]]
 file = ".idea/workspace.xml"
-hash = "94ed1b2c32dbd51fb11123bc637789b90836985b0c33abafb3ceafa8d7e9bf9e"
+hash = "a5a1a0965b5e19c071c94071d2130b3721a0313bdc41df22c901b60c3fd4fe7e"
 
 [[files]]
 file = "README.md"
@@ -707,11 +707,6 @@ hash = "8d24a1dae81462310a51281da2abc19adcf838fb264d5a05dd3774d245cc233e"
 metafile = true
 
 [[files]]
-file = "resourcepacks/fa-extensions-brays-chestfix.pw.toml"
-hash = "92d8e6c173fa68efac6bb67b1aa2a9347f78bd0bb8d56fd966b17e969dfc3b3d"
-metafile = true
-
-[[files]]
 file = "resourcepacks/fa-player-extension.pw.toml"
 hash = "ac7bbfdc56a8e16d5c900db5b94f41497526cd7546f4d751dd17aa604c064578"
 metafile = true
@@ -719,11 +714,6 @@ metafile = true
 [[files]]
 file = "resourcepacks/fancy-crops.pw.toml"
 hash = "b843c282f94af79a4970c91879eff4073932409aa045b722b48054bd4b2fd45d"
-metafile = true
-
-[[files]]
-file = "resourcepacks/fresh-animations-objects.pw.toml"
-hash = "4a2a1d4fb13506f5011fa74e9ca441e766b6727cff54e5672a2cb945b6d3f17c"
 metafile = true
 
 [[files]]
