@@ -612,6 +612,11 @@ hash = "b4b723e8c39b3737bd276678989e3253a576438155bcef89a4b62ee6947dd301"
 metafile = true
 
 [[files]]
+file = "mods/ok-zoomer.pw.toml"
+hash = "8a5b280bcfbbb9a6682108d873ad152737f4cc1bc34d0c30be4714039ca19bf2"
+metafile = true
+
+[[files]]
 file = "mods/packed-packs.pw.toml"
 hash = "2faec85ba93499ba9490eb82c14eca77328ee87fb0c5a8d3a7e78dc881a104e3"
 metafile = true
