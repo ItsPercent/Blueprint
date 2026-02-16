@@ -745,3 +745,8 @@ metafile = true
 file = "resourcepacks/no-hats-for-create.pw.toml"
 hash = "64c1086cfe09c585490d8767556e914314401b7418d52e623f10dc0e950ca87f"
 metafile = true
+
+[[files]]
+file = "shaderpacks/miniature-shader.pw.toml"
+hash = "06d8b80e204e34536e4f9b3598934208bc08e5d76c656f0e2112821c0e040776"
+metafile = true
