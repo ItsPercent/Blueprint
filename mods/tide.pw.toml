@@ -1,0 +1,13 @@
+name = "Tide 2"
+filename = "tide-neoforge-1.21.1-2.0.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/die1AF7i/versions/VDKQwJUs/tide-neoforge-1.21.1-2.0.3.jar"
+hash-format = "sha512"
+hash = "285481cb9e96d749ca3e7324bd398ab137d887cc53e4a45869f4f8c049f7a3a37e80a78fe0fb5efb8e65591cb18f060db7bfe49d45c907ca3138d24a9efa1abb"
+
+[update]
+[update.modrinth]
+mod-id = "die1AF7i"
+version = "VDKQwJUs"

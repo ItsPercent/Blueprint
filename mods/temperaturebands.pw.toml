@@ -1,0 +1,13 @@
+name = "Temperature Bands"
+filename = "TemperatureBands-1.0.0-NeoForge-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b5bbd231c2a52225d3abdef8bf261e1a5eca7f1d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6521159
+project-id = 1258324

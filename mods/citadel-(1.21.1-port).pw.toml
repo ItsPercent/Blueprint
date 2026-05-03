@@ -1,0 +1,13 @@
+name = "Citadel (Unofficial Port)"
+filename = "citadel-1.21.1-2.7.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/XjY0RcQj/versions/e5w5IEqp/citadel-1.21.1-2.7.5.jar"
+hash-format = "sha512"
+hash = "cf34b72536c14b16936c75d18f3eda4b7d8e16452c3b0fd736fb1107c1d9cc9495554321ce7af9ccc2b9e7afd00f602e13651b162c74b1e2e1adbc6c6c47de93"
+
+[update]
+[update.modrinth]
+mod-id = "XjY0RcQj"
+version = "e5w5IEqp"

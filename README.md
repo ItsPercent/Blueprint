@@ -1,4 +1,4 @@
-![The Logo of the Modpack](https://cdn.modrinth.com/data/cached_images/b0f9f19da904de9661edf86a60510a71ebabe1e2.png)
+![The Logo of the Modpack](https://i.imgur.com/EYMIXmX.png)
 [![Available on Modrinth](https://github.com/intergrav/devins-badges/blob/v3/assets/compact/available/modrinth_46h.png?raw=true)](https://modrinth.com/modpack/bpcreate)
 [![Watch me on Youtube](https://github.com/intergrav/devins-badges/blob/v3/assets/compact/social/youtube-singular_46h.png?raw=true)](https://www.youtube.com/channel/UC5F8ulfmzf264c9XONHQFEw)
 [![Built with Neoforge](https://cdn.modrinth.com/data/cached_images/d50ee493e8a61661098f42e8f94b4af682220efa.png)](https://neoforged.net)
