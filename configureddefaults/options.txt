@@ -1,0 +1,5 @@
+darkMojangStudiosBackground:true
+directionalAudio:true
+skipMultiplayerWarning:true
+soundCategory_music:0.05
+resourcePacks:["vanilla","fabric","mod_resources","moonlight:merged_pack","continuity:default","continuity:glass_pane_culling_fix","file/FA+Player-v1.0.zip","file/Fancy Crops v1.3.zip","file/Unnamed_Create_Computers_Resource_Pack.zip","file/create-stomified.zip","file/qrafty\u0027s-capitalized-font-3.1.zip","file/FreshAnimations_v1.10.4.zip","file/FreshCompats_v1.6.zip","file/Plain Dark - 1.20.2-26.x.zip","black_icons"]

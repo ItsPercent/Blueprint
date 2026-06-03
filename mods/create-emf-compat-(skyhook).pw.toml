@@ -1,0 +1,13 @@
+name = "Create: EMF Compat (Skyhook)"
+filename = "create_emf_compat-1.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/J9McOdzy/versions/55GT6fq1/create_emf_compat-1.0.jar"
+hash-format = "sha512"
+hash = "2fc601cfc1b23140b104564862592cd374e4389edc6d2427170c3a2bc447517f3f68280bec09fd6fdbfc1ca9a7e5b8e1a76543191e8e318532ea3ef13bf09808"
+
+[update]
+[update.modrinth]
+mod-id = "J9McOdzy"
+version = "55GT6fq1"

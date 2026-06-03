@@ -20,7 +20,10 @@
     'create_connected:fan_sanding_catalyst',
     'create_connected:fan_freezing_catalyst',
     'create_connected:fan_ending_catalyst_dragons_breath',
-    'create_connected:fan_ending_catalyst_dragon_head'
+    'create_connected:fan_ending_catalyst_dragon_head',
+    'create:dough',
+    '!createaddition:.*cake.*',
+    '!createaddition:.*bio.*'
   ],
   // -----------------------------------------------------------
   // Removes an item if it contains certain nbt tag. If the whole entry (or expression) is present, the item gets removed.

@@ -1,4 +1,0 @@
-darkMojangStudiosBackground:true
-directionalAudio:true
-skipMultiplayerWarning:true
-soundCategory_music:0.1

@@ -1,0 +1,13 @@
+name = "Create: Repackaged"
+filename = "repackaged-0.0.7.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/D6daOdv9/versions/DtHgL4HW/repackaged-0.0.7.jar"
+hash-format = "sha512"
+hash = "da03118abf303cca67d040b730efb720cedc1d0b664c960022bb172c50191abb00ed4e235f8f0aa7107a1e7286b6465bf823499060f375019d783c904f472260"
+
+[update]
+[update.modrinth]
+mod-id = "D6daOdv9"
+version = "DtHgL4HW"

@@ -1,0 +1,13 @@
+name = "Shine"
+filename = "shine-2.0.1+1.21.1-neoforge.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/uQgWIE6A/versions/IH3pf0a9/shine-2.0.1%2B1.21.1-neoforge.jar"
+hash-format = "sha512"
+hash = "7ff73a77e0e87e70693ba5b626cb9975ba1c3cfef6fb43b6f718d33674184ee95df984b38c423b38f4c7eea3371b39e57a840656d759fc885b2b26fbd693487e"
+
+[update]
+[update.modrinth]
+mod-id = "uQgWIE6A"
+version = "IH3pf0a9"
