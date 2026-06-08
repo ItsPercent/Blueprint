@@ -22,7 +22,7 @@ hash = "55768f1f84fb117f1d0fc383e180b5d0aa5e5e6584c8c4a2995c15b4237f0972"
 
 [[files]]
 file = ".idea/workspace.xml"
-hash = "0efdd720b873b33d5156e6470684872d62b86868e4ba5ed6dc6b84260e63f4f7"
+hash = "755fe45c48383856f04acb0849d32c5f146d033d531032db5bb33335cbfcb202"
 
 [[files]]
 file = "LICENSE"
@@ -46,7 +46,7 @@ hash = "df7ce62647f75fb1fc75a0edff62469baf60fed420005862e1026816166b6da4"
 
 [[files]]
 file = "configureddefaults/config/create_connected-common.toml"
-hash = "9f0cafa76882dc72fe3274dbf0ac3fcf67e4ec32c05d6b068b347c6d8282f473"
+hash = "78abd04a2215c0feb650809696cef2ac52d24b6ac8a6e2a771a2a36ba189926e"
 
 [[files]]
 file = "configureddefaults/config/create_cyber_goggles.toml"
@@ -63,6 +63,10 @@ hash = "bc2bbe083ef1f649069e63e7efbd08425abc7306732986ff798215182df78533"
 [[files]]
 file = "configureddefaults/config/darkmodeeverywhere-client.toml"
 hash = "94de6117d5bb709842ee27894de8373ada9461d63b3769f642a865570f2d23f1"
+
+[[files]]
+file = "configureddefaults/config/isxander-main-menu-credits.json"
+hash = "c27bf0985627c1b77b46557aac4dc6783994de61c3d10ea46fa034af867c98fb"
 
 [[files]]
 file = "configureddefaults/config/item_obliterator.json5"
@@ -94,7 +98,7 @@ hash = "726ea26ae706b788e5254a910f6cda5b8a72daefa50e831a3d067f394686577c"
 
 [[files]]
 file = "configureddefaults/config/resourcepackoverrides.json"
-hash = "31c49825d8a344e7502bf562acd8159bb90b70a4055ec1fccc877cb096521990"
+hash = "5b9929cc547dd6571c1d5a9d511c44b6d9dff9d3aa652e9800ed84d75bfbafce"
 
 [[files]]
 file = "configureddefaults/config/supplementaries-client.toml"
@@ -102,11 +106,7 @@ hash = "12642ea9a7205959953198e7b124c12336dc6de7df1838f61d856329ae35ace8"
 
 [[files]]
 file = "configureddefaults/options.txt"
-hash = "f52752b783d5264f12cf14bf248631599f5fd4b453e4786b2fc49e4ea4bc16d9"
-
-[[files]]
-file = "kubejs/assets/minecraft/texts/splashes.txt"
-hash = "38a4e6a2c2eddc3594dd50a11a44ab232dbeefa9f5074800fa19da40411242d7"
+hash = "502a38b30ada22cbfeb396e6bdca7c2a2eff5f31720e1d40b25ed8eb8d2f4ed7"
 
 [[files]]
 file = "kubejs/client_scripts/creative_items.js"
@@ -226,7 +226,7 @@ metafile = true
 
 [[files]]
 file = "mods/colorwheel.pw.toml"
-hash = "21399291eab26dc16a3d3455b4388df2bc42512570729dbcdd60697c1a84fd77"
+hash = "3f99808dda6b83374cea1d478e2688c69af71a7381b176d0a7df50d219e44ca9"
 metafile = true
 
 [[files]]
@@ -276,7 +276,12 @@ metafile = true
 
 [[files]]
 file = "mods/create-big-cannons.pw.toml"
-hash = "a76b3b07c25a8ea8c2797328d0d531f64dfbce5a662f343f833bd9857285286f"
+hash = "f7b20a7e5ae4678c0e74e7e6945f48c402636f8887d65b0cdab0357dd5c08856"
+metafile = true
+
+[[files]]
+file = "mods/create-bits-n-bobs.pw.toml"
+hash = "0f67083a39e4b9aa80b1830257086f16734091f9ecb24e64dd208c19be2c4923"
 metafile = true
 
 [[files]]
@@ -301,12 +306,12 @@ metafile = true
 
 [[files]]
 file = "mods/create-diesel-generators.pw.toml"
-hash = "9e6e9e3d5f93e77d45b57e6219998b3604b58a628c76d4762ed06deaf9e98e71"
+hash = "a29ffaf830f4ac94a8a867f2bd05b453d7f60e38e58c3fe5e05ec8946c5e854a"
 metafile = true
 
 [[files]]
 file = "mods/create-emf-compat-(skyhook).pw.toml"
-hash = "ff3fccbcbe92b88e0428c3921b8a932f64597a21ed3d4813a13f28ac4ccf9af3"
+hash = "dca92178bf06bb81deb5a7c886df22bd59a71a7bb51aa7f784cf8e55c0cb6aca"
 metafile = true
 
 [[files]]
@@ -380,6 +385,11 @@ hash = "34f20675ca26ae05670def8d9d84faf42009fabd1113d1739cea6fd380420aac"
 metafile = true
 
 [[files]]
+file = "mods/dripsounds.pw.toml"
+hash = "3298439919588dd564e9174af6cfc8496b253706f78407c881b4216e999b5234"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "ae6fd52d8bdcbeca5bbe6db840f22f92c1928fe0fda22017b19612b9b00a245a"
 metafile = true
@@ -405,6 +415,11 @@ hash = "cf7390cf06a861f7661222773371b429fce4fdd359240ca3c0eff20835471c0c"
 metafile = true
 
 [[files]]
+file = "mods/explosive-enhancement-forge.pw.toml"
+hash = "fc8948d1a8837b7a89a3b754335fd53086ba89c78af9c3d07fa899761c6a9e50"
+metafile = true
+
+[[files]]
 file = "mods/exposure.pw.toml"
 hash = "1dc09ef29e50db6aba5c6fbfaf892983444a0d4ca25f856f1d2838e0c6546166"
 metafile = true
@@ -417,6 +432,11 @@ metafile = true
 [[files]]
 file = "mods/extra-mod-integrations.pw.toml"
 hash = "1c516c3cdedc1a2b6bdd4d7ab12469142d5ee9dadc03e815be3f2a04b95f7135"
+metafile = true
+
+[[files]]
+file = "mods/fallingleavesforge.pw.toml"
+hash = "e5125f8f2709fd20f8182fade3d7f9e7129872c63f042c5489c6eba4733b6b49"
 metafile = true
 
 [[files]]
@@ -486,7 +506,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade-sable-compat.pw.toml"
-hash = "de4a88126c0c9ab4304ff4b6a9cf708d2587d0f572d035b51b3384e784dc6b2e"
+hash = "dc60a6e206bfd63faa85e420d94deab4efb8948b52960d01ba929f12f4ceb94f"
 metafile = true
 
 [[files]]
@@ -525,6 +545,11 @@ hash = "f5d0701055478e980b50849f199f266e6ab1940277a17ad2e5060df0d978be83"
 metafile = true
 
 [[files]]
+file = "mods/main-menu-credits.pw.toml"
+hash = "fa3e6df3d222c94014c840673aa92455210d404eadceb05dd5ab3ae5a3eab6db"
+metafile = true
+
+[[files]]
 file = "mods/miners-delight.pw.toml"
 hash = "13481133d139f134bd3407983e29f86df835ff66bacb013d9d43e14f155241f4"
 metafile = true
@@ -541,7 +566,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "4e93b2710a407b1a518aba64e77d97fd5a2f853b54e2133eac0768ba90bdc5d6"
+hash = "23ae6070690635c357040e1361922474ca25a1b0cc621bd9204070ec6c74acaf"
 metafile = true
 
 [[files]]
@@ -590,6 +615,11 @@ hash = "1121ffc2012bbbf0b619a16b953d5951c41a9ef545285d01f31995b3ba6b2b8c"
 metafile = true
 
 [[files]]
+file = "mods/particle-rain.pw.toml"
+hash = "6f24e7f5ecef862b1bdb61031637e27b093f185c3219023bea94d2d954ec4180"
+metafile = true
+
+[[files]]
 file = "mods/platform.pw.toml"
 hash = "00887452f4c902a5f98fc42875d522e59948b60c20d887855a183c0f7235c641"
 metafile = true
@@ -597,6 +627,11 @@ metafile = true
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "22dde7441f5bd5d2b4699d00f0efed79f75664dade5a66a36f181a0a823c751c"
+metafile = true
+
+[[files]]
+file = "mods/raised.pw.toml"
+hash = "b0dbfdfe96090dc844f4b19fe5f81a48f47522ebb0ea290a8ed5800c026f4643"
 metafile = true
 
 [[files]]
@@ -611,7 +646,7 @@ metafile = true
 
 [[files]]
 file = "mods/resource-pack-overrides.pw.toml"
-hash = "b8101dca20d054277d99e75b43dd8db44dea64a761d2ab69fdda9f6d59d9e6f1"
+hash = "60e41d7d2de8b6300fcd3e9d86bfac8922edbc7b2d659c6075911ddbc4829556"
 metafile = true
 
 [[files]]
@@ -671,7 +706,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "f610afa1753e465ef4fbd55ef0282e66b7a0f6e10b79b9bb0166b013fdcc4081"
+hash = "148c5d14dfeca914d20ceea4defa9660fe588e6fc22cea23cab745504d4b2453"
 metafile = true
 
 [[files]]
@@ -691,12 +726,12 @@ metafile = true
 
 [[files]]
 file = "mods/vanillabackport.pw.toml"
-hash = "ef6ec054264f943b1391d230317264f146057b9e3b07e99f4c383c324831b190"
+hash = "692eaba1dfc193086bf08a50d0dae5128d0d0f2516ffa1298d7e7c06af93aa34"
 metafile = true
 
 [[files]]
 file = "mods/vista_tv.pw.toml"
-hash = "c493f2722c4a9c08029f43140babc8f37bacfda57932ce5b29b29e388710fe82"
+hash = "5367de6572975a1ceaada2d2468624ada048810923fc51e10cc641a8a50da069"
 metafile = true
 
 [[files]]
@@ -733,6 +768,38 @@ metafile = true
 file = "mods/yeetus-experimentus.pw.toml"
 hash = "5e25dccab496945a5f19bb82383e0ebf98452ffc14cd25c7e0259cc44312281a"
 metafile = true
+
+[[files]]
+file = "resourcepacks/Blueprint Overrides/assets/minecraft/texts/splashes.txt"
+hash = "2a4fbe311147ac07f9db1179fe310748ed0d6523ff3d48bb183fa35877802d48"
+
+[[files]]
+file = "resourcepacks/Blueprint Overrides/assets/minecraft/textures/gui/title/background/panorama_0.png"
+hash = "4d7afea83d5ee84285ae6f6171fd66cd1a067529d1846d7e590ce013f57b2826"
+
+[[files]]
+file = "resourcepacks/Blueprint Overrides/assets/minecraft/textures/gui/title/background/panorama_1.png"
+hash = "9ba288eb371691dc29ce908e9cd0bc301299c72d96db1a0a48bf777880fd9d01"
+
+[[files]]
+file = "resourcepacks/Blueprint Overrides/assets/minecraft/textures/gui/title/background/panorama_2.png"
+hash = "4b4430cd9af55694faff728359eac6131f2400825409ab69a63063da5ae5bd02"
+
+[[files]]
+file = "resourcepacks/Blueprint Overrides/assets/minecraft/textures/gui/title/background/panorama_3.png"
+hash = "39700f06a8134d6f453ddd4ebdf6410af1b95bfbfc040ced5ac2a44fcc27f76c"
+
+[[files]]
+file = "resourcepacks/Blueprint Overrides/assets/minecraft/textures/gui/title/background/panorama_4.png"
+hash = "35f5d35f844afaa8c2e1efe4e5c433c2e5a112cdad82541db4a5aaa48a022b6c"
+
+[[files]]
+file = "resourcepacks/Blueprint Overrides/assets/minecraft/textures/gui/title/background/panorama_5.png"
+hash = "f13a75868373d6bfd8374cb0e73cef788443260247187da7ef078a226729d004"
+
+[[files]]
+file = "resourcepacks/Blueprint Overrides/pack.mcmeta"
+hash = "1a4cb47c1a0c66685e301102ba404c51482285ecf00ccde19cd3ca2034525803"
 
 [[files]]
 file = "resourcepacks/create-stomified.pw.toml"

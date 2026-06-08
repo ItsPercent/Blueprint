@@ -1,0 +1,22 @@
+{
+  "main_menu": {
+    "top_left": ["Created by ItsPercent"],
+    "top_right": [{
+  "text": "Panorama from \"This is Create.\" by Mysda!",
+  "clickEvent": {
+    "action": "open_url",
+    "value": "https://www.youtube.com/watch?v=tz5maMNgWqE"
+  }
+}],
+    "bottom_left": [],
+    "bottom_right": [],
+    "mod_blacklist": []
+  },
+  "pause_menu": {
+    "top_left": [],
+    "top_right": [],
+    "bottom_left": [],
+    "bottom_right": [],
+    "mod_blacklist": []
+  }
+}

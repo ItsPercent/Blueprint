@@ -2,18 +2,44 @@
   "schema_version": "2",
   "failed_reloads_per_session": 5,
   "default_packs": [
+    "vanilla",
     "fabric",
     "mod_resources",
     "moonlight:merged_pack",
     "continuity:default",
     "continuity:glass_pane_culling_fix",
+    "file/FreshAnimations_v1.10.4.zip",
     "file/FA+Player-v1.0.zip",
+    "file/FreshCompats_v1.6.zip",
+    "vanillabackport:freshly_animated",
     "file/Fancy Crops v1.3.zip",
-    "file/Unnamed_Create_Computers_Resource_Pack.zip",
     "file/create-stomified.zip",
-    "file/qrafty's-capitalized-font-3.1.zip"
+    "file/qrafty\u0027s-capitalized-font-3.1.zip",
+    "file/Plain Dark - 1.20.2-26.x.zip",
+    "black_icons",
+    "file/Blueprint Overrides"
   ],
   "default_overrides": {
     "force_compatible": true
+  },
+  "pack_overrides": {
+    "file/Blueprint Overrides": {
+      "default_position": "TOP",
+      "fixed_position": true,
+      "hidden": true
+    },
+    "Hidden": [
+      "file/Unnamed_Create_Computers_Resource_Pack.zip",
+      "file/create-stomified.zip",
+      "mod/subtle_effects:resourcepacks/biome_color_water_particles",
+      "vanillabackport:freshly_animated_legacy",
+      "moonlight:merged_pack",
+      "mod_resources",
+      "fabric",
+      "vanilla"
+    ],
+    "$$Hidden": {
+      "hidden": true
+    }
   }
 }

@@ -1,13 +1,16 @@
 name = "Blueprint"
 author = "ItsPercent"
-version = "3.4.0"
+version = "4.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "d8620edea5ef104391a7661fc7f55ac107182280f34b3b7cad09ed57967efeb3"
+hash = "4f5a6210b14965653a0f9e90a5ab3294d6b9f5022b752bc3587e2ac1f5cf497f"
 
 [versions]
 minecraft = "1.21.1"
 neoforge = "21.1.227"
+
+[options]
+acceptable-game-versions = ["Fabric", "Neoforge"]
